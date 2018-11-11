@@ -1,0 +1,3 @@
+User,Product1,Product2,Product3,Product4
+Nafi Afia,Iphone X|3|2940,Iphone 8|2|1840,Iphone 7+|5|4400,Iphone 7|8|6800
+Nafi Afia,Iphone X|4|3920,Iphone 8|5|4600,Iphone 7+|5|4400,Iphone 7|4|3400
